@@ -1,4 +1,4 @@
-# Low-carbon-grouts-for-wellbore-sealing
+# Mechanics-of-Rock-grouting
 
 This repository contains all the data needed to reproduce the results presented in our published project papers as follows:
 
