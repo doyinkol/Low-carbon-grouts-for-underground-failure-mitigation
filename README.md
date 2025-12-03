@@ -1,4 +1,4 @@
-# Mechanics-of-Rock-grouting
+# MechanicsRockGrouting
 
 This repository contains all the data needed to reproduce the results presented in our published project papers as follows:
 
